@@ -1,8 +1,5 @@
 # SPACE-ROVER
 A SURFACE MOBILITY ROVER ENGINEERED FOR PLANETARY SURFACE EXPLORATION STUDIES, FOCUSING ON STABILITY,TRACTION,AND REMOTE DIRECTIONAL CONTROL OVER UNEVEN TERRAIN
 
-
 The Celestial Rover Project is focused on developing an autonomous space rover capable of navigating extraterrestrial terrains while performing scientific tasks such as image capture, sample collection, and soil analysis. The project is divided into two phases. In Phase 1, the focus is on building a robust suspension system for diverse terrains, programming autonomous navigation, designing a robotic arm, and integrating scientific instruments. Key challenges include developing terrain mapping software without GPS and analyzing atmospheric variations for hazard detection. Phase 2 introduces a drone to enhance surface mapping and reconnaissance, along with establishing a charging environment for extended operations. This phase also presents challenges such as designing airfoils for low-pressure atmospheres and developing a magnetic charging system.
-
-
 
